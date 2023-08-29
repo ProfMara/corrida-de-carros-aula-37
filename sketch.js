@@ -9,7 +9,7 @@ function preload() {
  backgroundImage = loadImage("planodefundo.png");
   carroimg1 = loadImage("car1.png");
   carroimg2 = loadImage("car2.png");
-  estrada = loadImage("pista.png");
+  estrada = loadImage("PISTA.png");
 
 
 }
