@@ -30,8 +30,6 @@ class Form {
     this.playButton.mousePressed(() => {
       this.input.hide();
       this.playButton.hide();
-      var messagem = "Olá "+this.input.value()+"</br>espere o outro jogador entrar...";
-      this.greeting.html(messagem);
       //aumentar a quantidade de jogadores
     
       //atualizar o valor no banco de dados
